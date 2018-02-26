@@ -6,5 +6,5 @@ import scipy.optimize as op
 import numpy as np
 import matplotlib.pyplot as plt
 
-def secant(f,x0,x1,tol,maxiter):
-    
+def secant(f, x0, x1, tol, maxiter):
+    print "not implemented yet"
